@@ -1,0 +1,5 @@
+googletrans.egg-info/PKG-INFO
+googletrans.egg-info/SOURCES.txt
+googletrans.egg-info/dependency_links.txt
+googletrans.egg-info/requires.txt
+googletrans.egg-info/top_level.txt
