@@ -152,7 +152,7 @@ def textPreprocess(text):
     if 'alice' in respond:
         respond = respond.replace('alice', 'A.N.S.O.S')
     if 'bot' in respond:
-        respond.text = respond.replace('bot', 'servant')
+        respond = respond.replace('bot', 'servant')
 
     log.write('\n%s' % respond)
     log.close()

@@ -23,8 +23,10 @@ time.sleep(2)
 gui.moveTo(230,14)
 gui.dragTo(7,15)
 
+time.sleep(2)
 gui.moveTo(738,322)
 gui.dragTo(370,322)
 
+time.sleep(2)
 gui.moveTo(166,592)
 gui.dragTo(166,408)
